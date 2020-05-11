@@ -1,0 +1,19 @@
+{
+  "name": "rest_tuts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snjumaheshwari/rest_tut_with_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snjumaheshwari/rest_tut_with_node/issues"
+  },
+  "homepage": "https://github.com/snjumaheshwari/rest_tut_with_node#readme"
+}
